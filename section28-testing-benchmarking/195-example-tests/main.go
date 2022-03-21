@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/HongbinLin1995/golang/code_samples/section28-testing-benchmarking/195-example-tests/acdc"
+	"github.com/HongbinLin1995/go-learning/section28-testing-benchmarking/195-example-tests/acdc"
 )
 
 func main() {
